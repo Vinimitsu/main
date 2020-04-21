@@ -1,0 +1,10 @@
+* Higher-order procedures (Procedimentos de ordem superior)
+
+Higher-order procedures são "procedimentos que manipulam procedimentos", ou seja, são funções que assumem funções como argumentos, podendo 
+também retornar uma função como resultado. Esses procedimentos podem ser utilizados na generalização de somatórios, em listas, filtrando e 
+classificando por exemplo, promovem modularidade dos programas tornando em muitos casos um programa mais legível, ao invés de escrever 
+funções recursivas para casos individuais.
+
+Fonte:
+
+-SICP, seção 1.3
